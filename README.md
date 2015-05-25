@@ -1,0 +1,2 @@
+# maxscript
+The maxscript developer
